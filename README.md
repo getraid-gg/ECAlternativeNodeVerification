@@ -33,7 +33,7 @@ file structure in the directory _above_ the repo root:
   - BepInEx/
     - 0Harmony.dll
     - BepInEx.dll
-  - Emotion Creators/ (all of these can be found in <EC install folder>/EmotionCreators_Data/Managed/)
+  - Emotion Creators/ (all of these can be found in _EC install folder_/EmotionCreators_Data/Managed/)
     - Assembly-CSharp.dll
     - IL.dll
     - UnityEngine.dll
